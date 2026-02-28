@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: lion_sqlserver
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=Lionfitness2026.
+    ports:
+      - "1433:1433"
+    volumes:
+      - lion_sql_data:/var/opt/mssql
+
+volumes:
+  lion_sql_data:
