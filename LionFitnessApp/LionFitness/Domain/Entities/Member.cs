@@ -7,8 +7,8 @@ namespace LionFitness.Domain.Entities
         public string Name { get; set; } = string.Empty;
         public string Cpf { get; set; } = string.Empty;
         public DateTime Birthdate { get; set; }
-        public string PhotoUrl { get; set; }
-        public bool Active { get; set; } = true;
+        public string? PhotoUrl { get; set; }
+        public bool IsActive { get; set; } = true;
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;  
 
     }

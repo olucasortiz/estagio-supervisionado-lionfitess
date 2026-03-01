@@ -1,0 +1,51 @@
+### Build results
+bin/
+obj/
+
+### User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+### Visual Studio folder
+.vs/
+
+### VS Code (caso use)
+.vscode/
+
+### Rider
+.idea/
+
+### Logs
+*.log
+
+### EF Core migrations snapshot backup (opcional)
+*.Designer.cs
+
+### Publish folder
+publish/
+
+### Temporary files
+*.tmp
+*.temp
+
+### OS files
+.DS_Store
+Thumbs.db
+
+### Test results
+TestResults/
+
+### Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+### NuGet
+*.nupkg
+packages/
+
+### Environment files
+.env
+.env.*

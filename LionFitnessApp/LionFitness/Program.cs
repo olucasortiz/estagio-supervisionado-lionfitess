@@ -2,6 +2,7 @@
 using LionFitness.Infrastructure.Persistence;
 using Microsoft.EntityFrameworkCore;
 using Serilog;
+using LionFitness.Middlewares;
 
 namespace LionFitness
 {
@@ -21,6 +22,7 @@ namespace LionFitness
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddOpenApi();
             builder.Services.AddSwaggerGen();
+            builder.Services.AddTransient<ExceptionMiddleware>();
 
             builder.Services.AddDbContext<AppDbContext>(options =>
                 options.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
@@ -38,6 +40,7 @@ namespace LionFitness
             app.UseAuthorization();
 
             app.UseSerilogRequestLogging();
+            app.UseMiddleware<ExceptionMiddleware>();
             app.MapControllers();
 
             app.Run();

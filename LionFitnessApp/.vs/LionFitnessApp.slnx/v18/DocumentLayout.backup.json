@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\estagio-supervisionado-lionfitess\\LionFitnessApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5241F485-1665-48C7-B6BC-F10AA15850C4}|LionFitness\\LionFitness.csproj|c:\\estagio-supervisionado-lionfitess\\lionfitnessapp\\lionfitness\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5241F485-1665-48C7-B6BC-F10AA15850C4}|LionFitness\\LionFitness.csproj|solutionrelative:lionfitness\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B137B8C5-3CA1-0645-A529-0F73A420B6FE}|LionFitness\\LionFitness.csproj|c:\\estagio-supervisionado-lionfitess\\lionfitnessapp\\lionfitness\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B137B8C5-3CA1-0645-A529-0F73A420B6FE}|LionFitness\\LionFitness.csproj|solutionrelative:lionfitness\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5241F485-1665-48C7-B6BC-F10AA15850C4}|LionFitness\\LionFitness.csproj|c:\\estagio-supervisionado-lionfitess\\lionfitnessapp\\lionfitness\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5241F485-1665-48C7-B6BC-F10AA15850C4}|LionFitness\\LionFitness.csproj|solutionrelative:lionfitness\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B137B8C5-3CA1-0645-A529-0F73A420B6FE}|LionFitness\\LionFitness.csproj|c:\\estagio-supervisionado-lionfitess\\lionfitnessapp\\lionfitness\\application\\services\\memberservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B137B8C5-3CA1-0645-A529-0F73A420B6FE}|LionFitness\\LionFitness.csproj|solutionrelative:lionfitness\\application\\services\\memberservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B137B8C5-3CA1-0645-A529-0F73A420B6FE}|LionFitness\\LionFitness.csproj|c:\\estagio-supervisionado-lionfitess\\lionfitnessapp\\lionfitness\\application\\mappers\\membermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B137B8C5-3CA1-0645-A529-0F73A420B6FE}|LionFitness\\LionFitness.csproj|solutionrelative:lionfitness\\application\\mappers\\membermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B137B8C5-3CA1-0645-A529-0F73A420B6FE}|LionFitness\\LionFitness.csproj|c:\\estagio-supervisionado-lionfitess\\lionfitnessapp\\lionfitness\\application\\dtos\\member\\membercreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B137B8C5-3CA1-0645-A529-0F73A420B6FE}|LionFitness\\LionFitness.csproj|solutionrelative:lionfitness\\application\\dtos\\member\\membercreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B137B8C5-3CA1-0645-A529-0F73A420B6FE}|LionFitness\\LionFitness.csproj|c:\\estagio-supervisionado-lionfitess\\lionfitnessapp\\lionfitness\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B137B8C5-3CA1-0645-A529-0F73A420B6FE}|LionFitness\\LionFitness.csproj|solutionrelative:lionfitness\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemberMapper.cs",
+              "DocumentMoniker": "C:\\estagio-supervisionado-lionfitess\\LionFitnessApp\\LionFitness\\Application\\Mappers\\MemberMapper.cs",
+              "RelativeDocumentMoniker": "LionFitness\\Application\\Mappers\\MemberMapper.cs",
+              "ToolTip": "C:\\estagio-supervisionado-lionfitess\\LionFitnessApp\\LionFitness\\Application\\Mappers\\MemberMapper.cs",
+              "RelativeToolTip": "LionFitness\\Application\\Mappers\\MemberMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T19:40:37.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemberServices.cs",
+              "DocumentMoniker": "C:\\estagio-supervisionado-lionfitess\\LionFitnessApp\\LionFitness\\Application\\Services\\MemberServices.cs",
+              "RelativeDocumentMoniker": "LionFitness\\Application\\Services\\MemberServices.cs",
+              "ToolTip": "C:\\estagio-supervisionado-lionfitess\\LionFitnessApp\\LionFitness\\Application\\Services\\MemberServices.cs",
+              "RelativeToolTip": "LionFitness\\Application\\Services\\MemberServices.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T19:38:22.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "C:\\estagio-supervisionado-lionfitess\\LionFitnessApp\\LionFitness\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "LionFitness\\Controllers\\MembersController.cs",
+              "ToolTip": "C:\\estagio-supervisionado-lionfitess\\LionFitnessApp\\LionFitness\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "LionFitness\\Controllers\\MembersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T18:33:02.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\estagio-supervisionado-lionfitess\\LionFitnessApp\\LionFitness\\appsettings.json",
               "RelativeDocumentMoniker": "LionFitness\\appsettings.json",
               "ToolTip": "C:\\estagio-supervisionado-lionfitess\\LionFitnessApp\\LionFitness\\appsettings.json",
               "RelativeToolTip": "LionFitness\\appsettings.json",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-02-27T22:09:29.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\estagio-supervisionado-lionfitess\\LionFitnessApp\\LionFitness\\Program.cs",
-              "RelativeDocumentMoniker": "LionFitness\\Program.cs",
-              "ToolTip": "C:\\estagio-supervisionado-lionfitess\\LionFitnessApp\\LionFitness\\Program.cs",
-              "RelativeToolTip": "LionFitness\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "MemberCreateRequest.cs",
+              "DocumentMoniker": "C:\\estagio-supervisionado-lionfitess\\LionFitnessApp\\LionFitness\\Application\\DTOS\\Member\\MemberCreateRequest.cs",
+              "RelativeDocumentMoniker": "LionFitness\\Application\\DTOS\\Member\\MemberCreateRequest.cs",
+              "ToolTip": "C:\\estagio-supervisionado-lionfitess\\LionFitnessApp\\LionFitness\\Application\\DTOS\\Member\\MemberCreateRequest.cs",
+              "RelativeToolTip": "LionFitness\\Application\\DTOS\\Member\\MemberCreateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T22:01:01.113Z",
+              "WhenOpened": "2026-02-28T18:21:51.831Z",
               "EditorCaption": ""
             }
           ]

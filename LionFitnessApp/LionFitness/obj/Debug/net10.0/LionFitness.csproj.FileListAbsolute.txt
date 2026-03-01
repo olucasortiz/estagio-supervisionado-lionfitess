@@ -176,3 +176,4 @@ C:\estagio-supervisionado-lionfitess\LionFitnessApp\LionFitness\bin\Debug\net10.
 C:\estagio-supervisionado-lionfitess\LionFitnessApp\LionFitness\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\estagio-supervisionado-lionfitess\LionFitnessApp\LionFitness\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\estagio-supervisionado-lionfitess\LionFitnessApp\LionFitness\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\estagio-supervisionado-lionfitess\LionFitnessApp\LionFitness\obj\Debug\net10.0\LionFitness.sourcelink.json
