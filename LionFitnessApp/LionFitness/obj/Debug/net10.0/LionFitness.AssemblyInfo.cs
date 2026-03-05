@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LionFitness")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebbf9b71ffff7211ba72a43516ffd11bacc56c87")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e09cb3fa4e06c1b0f2f1e5f8cf6a1c83bbf053f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("LionFitness")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LionFitness")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
